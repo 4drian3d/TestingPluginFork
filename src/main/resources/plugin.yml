@@ -1,0 +1,6 @@
+main: org.kingxrp.talker.Talker
+version: 0.1.0
+name: Talker
+author: KingXRP
+website: www.github.com/DavShaw/
+api-version: 1.19
