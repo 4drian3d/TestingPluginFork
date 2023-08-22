@@ -1,0 +1,5 @@
+main: talker.Talker
+version: 0.1
+name: Talker
+author: KingXRP
+website: www.github.com/DavShaw/
